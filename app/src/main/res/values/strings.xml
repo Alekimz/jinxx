@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alexis</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_navs">NavsActivity</string>
+    <string name="title_activity_new">NewActivity</string>
+</resources>
